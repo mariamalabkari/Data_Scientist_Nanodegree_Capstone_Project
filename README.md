@@ -34,3 +34,14 @@ It was driven by 4 main questions that were answered as the project came to its 
 
 ### Summary 
 
+<ul>
+  <li>The average income for Starbucks customers is 65404.99.</li>
+  <li>The average age for Starbucks customers for all genders is 62.53.</li>
+  <li>the average for Starbucks customers for females is higher than the average for males.</li>
+  <li>The higher number of completed promotion was around 5500.</li>
+  <li>the number of completed promotion for the three types of offer, shows that Bogo and Discount close to each other, however Bogo is a slightly higher.</li>
+  <li>Both male and female prefer Bogo from all types of promotions.</li>
+  <li>Most of the age groups like Bogo.</li>
+  <li>Adults represents the highest group number among all other age groups.</li>
+</ul>
+
