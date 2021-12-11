@@ -6,7 +6,7 @@
   This file contains the code and all the steps used
   <li>Starbucks_Capstone_notebook.html</li>
   html file of the ipynb
-  <li></li>
+  <li>https://medium.com/@mariam.alabkari/starbucks-capstone-challenge-26de71e92293</li>
   This link is the blog post in Medium website
 </ul>
 
