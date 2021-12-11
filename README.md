@@ -3,7 +3,11 @@
 ### Files in the repository 
 <ul>
   <li>Starbucks_Capstone_notebook.ipynb</li>
+  This file contains the code and all the steps used
   <li>Starbucks_Capstone_notebook.html</li>
+  html file of the ipynb
+  <li></li>
+  This link is the blog post in Medium website
 </ul>
 
 This project requires Python 3.x and the following Python libraries installed:
